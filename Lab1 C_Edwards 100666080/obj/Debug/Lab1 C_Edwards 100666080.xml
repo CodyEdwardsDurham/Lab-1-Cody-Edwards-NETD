@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Lab1 C_Edwards 100666080
+</name>
+</assembly>
+<members>
+<member name="T:Lab1_C_Edwards_100666080.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Lab1_C_Edwards_100666080.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Lab1_C_Edwards_100666080.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Lab1_C_Edwards_100666080.frmAverageUnitsShipped">
+ Title:  Average Units Shiped
+ Author: Cody Edwards 100666080
+ Since:  Feburary 1st
+ Description: Program to Calulcate the average units shipped at the end of every week
+ CRN: NETD-2202-04
+</member>
+</members>
+</doc>

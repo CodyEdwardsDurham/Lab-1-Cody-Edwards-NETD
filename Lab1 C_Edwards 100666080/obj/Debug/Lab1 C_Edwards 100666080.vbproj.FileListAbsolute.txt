@@ -1,0 +1,45 @@
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe.config
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.pdb
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.xml
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbprojResolveAssemblyReference.cache
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.Resources.resources
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbproj.GenerateResource.Cache
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbproj.CoreCompileInputs.cache
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.exe
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.xml
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.pdb
+E:\Documents\School\Classes\Semester 2\NET\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.frmAverageUnitsShipped.resources
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe.config
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.pdb
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.xml
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbprojResolveAssemblyReference.cache
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.frmAverageUnitsShipped.resources
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.Resources.resources
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbproj.GenerateResource.Cache
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.exe
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.xml
+E:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.pdb
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe.config
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.exe
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.xml
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.pdb
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.pdb
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.xml
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbprojResolveAssemblyReference.cache
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.frmAverageUnitsShipped.resources
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.Resources.resources
+H:\Documents\School\Classes\Semester 2\NETD\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbproj.GenerateResource.Cache
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe.config
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.exe
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.xml
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.pdb
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.exe
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.pdb
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\bin\Debug\Lab1 C_Edwards 100666080.xml
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbprojResolveAssemblyReference.cache
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.frmAverageUnitsShipped.resources
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1_C_Edwards_100666080.Resources.resources
+E:\Documents\School\Classes\Semester 2\NETD\Labs\Lab 1\Lab1 C_Edwards 100666080\Lab1 C_Edwards 100666080\obj\Debug\Lab1 C_Edwards 100666080.vbproj.GenerateResource.Cache
